@@ -1,0 +1,27 @@
+.footer .contact-icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-line {
+  border-top: 1px solid white;
+  opacity: 1;
+}
+
+.footer .uniform-icon {
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.text-purple {
+  color: #9c27b0;
+}
+
+@media (max-width: 768px) {
+  .footer .col-md-3 {
+    text-align: center;
+  }
+}
